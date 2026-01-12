@@ -50,3 +50,9 @@ lightning_logs/
 # ===============================
 .DS_Store
 Thumbs.db
+
+*.keras
+lightning_logs
+__MACOSX
+data 
+*.pt 
