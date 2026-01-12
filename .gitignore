@@ -56,3 +56,4 @@ lightning_logs
 __MACOSX
 data 
 *.pt 
+*.csv
